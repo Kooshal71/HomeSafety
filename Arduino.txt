@@ -1,0 +1,13 @@
+Distance
+Gas
+Flame
+Display
+
+Flame>gas>Distance
+
+Distance is less than 10cm then glow the LED and BUZZER
+Distance is more than 50cm then glow the LED
+
+Gas is present then Glow the LED
+
+If Fire is present then glow the LED and the BUZZER
